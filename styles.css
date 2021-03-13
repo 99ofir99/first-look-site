@@ -1,0 +1,208 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #ccf2f4;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+
+font-size:3rem;
+color: black;
+}
+
+h2 {
+  color: blue;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-decoration: underline;
+}
+
+h3 {
+color: blue;
+
+}
+
+hr {
+  border-style: dotted none none none;
+  border-top-style:dotted;
+  border-width: 10px;
+  width: 20%;
+}
+
+.code-img {
+width: 25%;
+float: left;
+position: relative;
+bottom: 60px;
+right: 20px;
+}
+
+
+.cp-img {
+width: 25%;
+float: left;
+position: relative;
+bottom: 60px;
+right: 20px;
+}
+
+.sport-img {
+width: 25%;
+float: left;
+position: relative;
+bottom: 60px;
+right: 20px;
+}
+
+#mid {
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+
+
+.skills {
+  font-family: sans-serif;
+margin: 100px auto 100px auto;
+line-height: 1.4;
+
+}
+
+.skill-row {
+
+  font-family: sans-serif;
+  width: 50%;
+  margin:100px auto 100px auto;
+  line-height:2;
+  text-align: left;
+
+}
+
+.text-headlines {
+  color: black;
+}
+
+.con {
+    margin: 0 auto 0 auto;
+font-size:2rem ;
+color: black;
+font-weight: normal;
+}
+
+.header {
+background-color: powderblue;
+position:relative;
+height: 577px;
+  font-family: Lucida Handwriting ,  cursive , sans-serif;
+  line-height: 2;
+
+}
+
+
+.middle-container {
+  font-family: sans-serif;
+  margin: 100px 0;
+
+}
+
+.bottom-container{
+font-family: sans-serif;
+background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+
+a{
+  color:#94ebcd;
+  margin: 0 20px 0 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+
+.cloud1 {
+position: absolute;
+top: 170px;
+left: 190px
+}
+
+.cloud2 {
+position: absolute;
+right: 10px;
+top: 300px;
+}
+
+.cloud3 {
+  position: relative;
+  top: 60px;
+  left: 220px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me {
+  font-family: sans-serif;
+  margin-top: 130px;
+}
+.asif {
+  width: 30%;
+  margin-top: 200px;
+}
+
+
+button {
+position: fixed;
+left: 0;
+background-color: powderblue;
+border: none;
+color: powderblue;
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+.button1
+{
+  background-color: powderblue;
+  color: black;
+
+}
+
+.button1:hover {
+  background-color: powderblue;
+  color: white;
+}
+
+
+.btn {
+	background-color:#00f541;
+	border-radius:28px;
+	border:2px solid #947294;
+	display:inline-block;
+	cursor:pointer;
+	color:#030003;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:18px 28px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#88e8eb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
